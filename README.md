@@ -1,7 +1,7 @@
 # weather-app
 
 
-link : https://lokiweather.netlify.app/
+DEMO : https://lokiweather.netlify.app/
 
 
 
